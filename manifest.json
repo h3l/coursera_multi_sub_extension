@@ -1,0 +1,16 @@
+{
+  "name": "coursera_multi_sub_extension",
+  "description": "multi coursera sub",
+  "version": "2.0",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs",
+    "https://www.coursera.org/*"
+  ],
+  "browser_action": {
+    "default_title": "Make this page red",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
