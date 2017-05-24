@@ -1,4 +1,4 @@
-# courcera_multi_sub_extension
+# coursera multi sub extension
 让coursera支持多字幕
 
 
