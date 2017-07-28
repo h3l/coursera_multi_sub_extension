@@ -11,7 +11,7 @@
 
 ### 安装方法
 
-* 下载本插件
+* [点此](../../raw/master/extension.crx)下载本插件
 * 使用 Chrome 访问 chrome://extensions/
 * 点击“加载已解压的扩展程序”
 * 选择 extension 文件夹即可
